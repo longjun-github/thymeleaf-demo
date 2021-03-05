@@ -1,0 +1,5 @@
+server:
+  port: 8808
+spring:
+  thymeleaf:
+    cache: false #规避新建标签时，把以前的内容展示出来
